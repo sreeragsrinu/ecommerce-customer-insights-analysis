@@ -40,7 +40,7 @@ This project analyzes an e-commerce dataset using SQL and Power BI to uncover ke
 ![Products](screenshots/top_products.png)
 
 ### Top Sellers
-![Sellers](screenshots/top_sellers.png)
+![Top Sellers](screenshots/top10_sellers.png)
 
 ### Order Status Distribution
 ![Status](screenshots/order_status_distribution.png)
